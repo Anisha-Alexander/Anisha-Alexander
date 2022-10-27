@@ -1,4 +1,8 @@
 ### Hi there 👋
 - 🌱 I’m currently learning  HTML-CSS
-- Completed web clones of : Azure, Doordash, Airbnb 
--Nextly moving on to JavaScript
+- Web clones using HTML & CSS : Azure, Doordash, Airbnb, Flipkart
+- Web clones using HTML, CSS & JavaScript : Etsy Flipkart
+- Udemy 50 Projects
+
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Anihsa-Alexander&theme=radical)](https://git.io/streak-stats)
