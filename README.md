@@ -7,7 +7,7 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anisha-Alexander&theme=radical)](https://git.io/streak-stats)
-<div style='background-color:yellow;'>
+<div style='background-color:yellow;position:absolute;right:20;top:50%;'>
   <a href="https://app.daily.dev/Anisha_Alexander">
      <img src="https://api.daily.dev/devcards/a22aa047ee4d4e2485317360004c2526.png?r=s59" width="200"    alt="Anisha Alexander's Dev Card"/>
   </a>
