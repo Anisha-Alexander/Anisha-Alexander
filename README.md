@@ -4,7 +4,7 @@
 - Web clones using HTML, CSS & JavaScript : Etsy Flipkart
 - Udemy 50 Projects
 - Currently learing React
-
+- currently Learning JavaScript 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Anisha-Alexander&theme=radical)](https://git.io/streak-stats)
 <div style='background-color:yellow;position:absolute;right:20;top:50%;'>
